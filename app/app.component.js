@@ -11,7 +11,7 @@ let AppComponent = class AppComponent {
 AppComponent = __decorate([
     core_1.Component({
         selector: 'lojacloud-app',
-        template: '<h1>Loja Cloud</h1>'
+        template: '<h1 style="font-size:170%">Loja Cloud</h1>'
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;
